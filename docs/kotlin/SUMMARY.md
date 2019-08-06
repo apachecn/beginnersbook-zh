@@ -3,7 +3,6 @@
     +   [在 IntelliJ IDEA 中创建并运行您的第一个 Kotlin 项目](3.md)
     +   [Kotlin Hello World 计划 - 第一个 Kotlin 计划](4.md)
 +   Kotlin 基础
-    +   [Kotlin 密封类与实例](40.md)
     +   [Kotlin 关键词，软关键词和标识符](5.md)
     +   [Kotlin 变量和数据类型](6.md)
     +   [Kotlin 型铸造用例子](7.md)
@@ -45,3 +44,4 @@
     +   [Kotlin 接口与示例](37.md)
     +   [Kotlin 嵌套和内部类与示例](38.md)
     +   [Kotlin 数据类和示例](39.md)
+    +   [Kotlin 密封类与实例](40.md)
