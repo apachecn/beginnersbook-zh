@@ -59,7 +59,7 @@
     +   [Java 程序计算三角区域](60.md)
     +   [Java 程序计算圆的面积和周长](61.md)
 +   [Java 排序/搜索程序](62.md)
-    +   [Ascending＆amp; amp;中用于冒泡排序的 Java 程序降序排列](63.md)
+    +   [Ascending&amp; amp;中用于冒泡排序的 Java 程序降序排列](63.md)
     +   [用于线性搜索的 Java 程序 - 示例](64.md)
     +   [用于执行二进制搜索的 Java 程序 - 示例](65.md)
     +   [用于选择排序的 Java 程序](66.md)
