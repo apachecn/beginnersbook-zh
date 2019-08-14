@@ -12,7 +12,7 @@
 +   Kotlin 字符串教程
     +   [Kotlin String](11.md)
 +   Kotlin 数组教程
-    +   [Kotlin 阵列](12.md)
+    +   [Kotlin 数组](12.md)
     +   [科特林山脉](13.md)
 +   Kotlin 控制流教程
     +   [Kotlin If - Else Expression with examples](14.md)
