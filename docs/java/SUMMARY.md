@@ -19,7 +19,7 @@
     +   [Java 中的继承类型：Single，Multiple，Multilevel&amp;混合动力](20.md)
     +   [OOPs 概念 - 什么是 java 中的聚合？](21.md)
     +   [OOPs 概念 - java 中的协会是什么？](22.md)
-    +   [java 中的超级关键字示例](23.md)
+    +   [java 中的`super`关键字示例](23.md)
     +   [使用示例在 Java 中重载方法](24.md)
     +   [用示例覆盖 java 中的方法](25.md)
     +   [java 中方法重载和覆盖之间的区别](26.md)
