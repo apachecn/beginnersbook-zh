@@ -10,21 +10,21 @@
 
 ## 目录
 
-+   [C 语言教程](docs/c)
-+   [C 语言示例](docs/c-example)
-+   [C++ 教程](docs/cpp)
-+   [数据库教程](docs/dbms)
-+   [Java 教程](docs/java)
-+   [Java 集合教程](docs/java-collection)
-+   [Java 示例](docs/java-example)
-+   [Java IO 教程](docs/java-io)
-+   [Java 字符串教程](docs/java-string)
-+   [JSP 教程](docs/jsp)
-+   [JSTL 教程](docs/jstl)
-+   [Kotlin 教程](docs/kotlin)
-+   [MongoDB 教程](docs/mongodb)
-+   [Perl 教程](docs/perl)
-+   [Servlet 教程](docs/servlet)
++   [C 语言教程](docs/c/SUMMARY.md)
++   [C 语言示例](docs/c-example/SUMMARY.md)
++   [C++ 教程](docs/cpp/SUMMARY.md)
++   [数据库教程](docs/dbms/SUMMARY.md)
++   [Java 教程](docs/java/SUMMARY.md)
++   [Java 集合教程](docs/java-collection/SUMMARY.md)
++   [Java 示例](docs/java-example/SUMMARY.md)
++   [Java IO 教程](docs/java-io/SUMMARY.md)
++   [Java 字符串教程](docs/java-string/SUMMARY.md)
++   [JSP 教程](docs/jsp/SUMMARY.md)
++   [JSTL 教程](docs/jstl/SUMMARY.md)
++   [Kotlin 教程](docs/kotlin/SUMMARY.md)
++   [MongoDB 教程](docs/mongodb/SUMMARY.md)
++   [Perl 教程](docs/perl/SUMMARY.md)
++   [Servlet 教程](docs/servlet/SUMMARY.md)
 
 ## 贡献指南
 
