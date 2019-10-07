@@ -57,7 +57,7 @@
 +   [Java 8 教程](58.md)
     +   [Java Lambda 表达式教程与示例](59.md)
     +   [Java 8 中的方法参考](60.md)
-    +   [Java 功能接口](61.md)
+    +   [Java 函数式接口](61.md)
     +   [Java 8 Stream 教程](62.md)
     +   [Java 8 Stream Filter 带有示例](63.md)
     +   [Java 8 接口更改 - 默认方法和静态方法](64.md)
