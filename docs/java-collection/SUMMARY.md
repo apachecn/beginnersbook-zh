@@ -113,7 +113,7 @@
     +   [TreeSet 中](114.md)
         +   [Java 中的 TreeSet 类与示例](115.md)
         +   [HashSet 和 TreeSet 之间的区别](116.md)
-+   [Java 集合 - 地图](117.md)
++   [Java 集合 - 映射](117.md)
     +   [HashMap 中](118.md)
         +   [HashMap 基础知识](119.md)
             +   [Java 中的 HashMap 与示例](120.md)
