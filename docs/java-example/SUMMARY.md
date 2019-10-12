@@ -89,7 +89,7 @@
     +   [用于打印 Floyd 三角形的 Java 程序 - 示例](90.md)
     +   [用于打印 Pascal Triangle 的 Java 程序](91.md)
     +   [使用循环显示 Fibonacci 系列的 Java 程序](92.md)
-    +   [使用 For 和 While 循环查找因子的 Java 程序](93.md)
+    +   [使用 For 和 While 循环查找阶乘的 Java 程序](93.md)
     +   [使用 Switch Case 制作计算器的 Java 程序](94.md)
     +   [用于计算和显示学生成绩的 Java 程序](95.md)
     +   [使用方法重载执行算术运算的 Java 程序](96.md)
