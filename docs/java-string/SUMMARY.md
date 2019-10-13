@@ -16,7 +16,7 @@
     +   [Java String intern（）方法用示例解释](25.md)
     +   [Java String isEmpty（）方法，带有示例](26.md)
     +   [Java String join（）方法用示例解释](27.md)
-    +   [Java 正则表达式（java 正则表达式）教程与示例](30.md)
+    +   [Java 正则表达式教程](../java/49.md)
     +   [Java String split（）方法和示例](31.md)
     +   [Java String format（）方法用例子解释](34.md)
     +   [Java - String toCharArray（）方法示例](37.md)
