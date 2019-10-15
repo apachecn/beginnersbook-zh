@@ -5,7 +5,7 @@
 +   Kotlin 基础
     +   [Kotlin 关键词，软关键词和标识符](5.md)
     +   [Kotlin 变量和数据类型](6.md)
-    +   [Kotlin 型铸造用例子](7.md)
+    +   [Kotlin 型转换用例子](7.md)
     +   [Kotlin 算子 - 算术，赋值，一元，逻辑等](8.md)
     +   [Kotlin - 如何从用户获取输入](9.md)
     +   [科特林评论](10.md)
