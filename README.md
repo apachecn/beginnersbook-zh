@@ -1,4 +1,4 @@
-# BeginnersBook 中文教程
+# BeginnersBook 中文系列教程
 
 > 原文：[BeginnersBook](https://beginnersbook.com/)
 > 
