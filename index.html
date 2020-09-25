@@ -58,12 +58,15 @@
     }
     
     window.$docsify = {
-      loadSidebar: 'sidebar.md',
+      loadSidebar: 'SUMMARY.md',
       name: 'BeginnersBook 中文系列教程',
       auto2top: true,
       themeColor: '#197d63',
       repo: 'apachecn/beginnersbook-zh',
       plugins: [window.docsPlugin],
+      alias: {
+        '/.*/SUMMARY.md': '/SUMMARY.md',
+      },
       search: {
         paths: 'auto',
         placeholder: '搜索',
