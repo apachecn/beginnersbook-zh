@@ -29,6 +29,14 @@
 
 ## 下载
 
+### PYPI
+
+```
+pip install beginnersbook-zh
+beginnersbook-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ### NPM
 
 ```
