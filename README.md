@@ -27,6 +27,17 @@
 +   [Perl 教程](docs/perl/SUMMARY.md)
 +   [Servlet 教程](docs/servlet/SUMMARY.md)
 
+## 下载
+
+### NPM
+
+```
+npm install -g beginnersbook-zh
+beginnersbook-zh <port>
+' + 
+                '# 访问 http://localhost:{port} 查看文档
+```
+
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
