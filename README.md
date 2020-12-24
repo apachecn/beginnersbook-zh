@@ -7,6 +7,7 @@
 > 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
 
 * [在线阅读](https://beginnersbook.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/beginnersbook-zh/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 目录
