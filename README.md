@@ -4,7 +4,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 他要是体面，你就让他体面；他要是不体面，你就帮他体面。——《让子弹飞》
 
 * [在线阅读](https://beginnersbook.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/beginnersbook-zh/)
