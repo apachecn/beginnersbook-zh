@@ -6,7 +6,7 @@
 > 
 > 他要是体面，你就让他体面；他要是不体面，你就帮他体面。——《让子弹飞》
 
-* [在线阅读](https://bgrb.apachecn.org)
+* [在线阅读](https://bgb.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/beginnersbook-zh/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
